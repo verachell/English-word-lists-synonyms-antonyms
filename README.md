@@ -4,7 +4,7 @@ A list of English words, their synonyms and antonyms. The result of parsing a pu
 ## Overview
 The words in this list were taken from the Project Gutenberg book: [A Complete Dictionary of Synonyms and Antonyms](http://www.gutenberg.org/ebooks/51155) by Samuel Fallows, 1898
 
-I originally parsed these words for use in my NaNoGenMo 2020 project and put those words into this repository in case it was helpful for others to use. 
+I originally parsed these words for use in my NaNoGenMo 2020 project and put the result of this parsing into this repository in case it was helpful for others to use. 
 
 This repository is licensed under the Unlicense.
 
