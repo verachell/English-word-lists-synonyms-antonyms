@@ -8,8 +8,7 @@ I originally parsed these words for use in my NaNoGenMo 2020 project and put the
 
 This repository is licensed under the Unlicense.
 
-USE AT OWN RISK! I have made a good-faith attempt at removing profanity, racial slurs, and other offensive language (see credits for sources of such words). However, there is no guarantee that all such instances of language are filtered out, and where you draw the line is largely up to you and your application. The words here should not be considered as free of offensive language; you are responsible for applying your own filters to this.
-
+USE AT OWN RISK! I have made a good-faith attempt at removing profanity, racial slurs, and other offensive language (see credits for sources of such words), while making a point of avoiding the Scunthorpe Problem. However, there is no guarantee that all such instances of language are filtered out, and where you draw the line is largely up to you and your application. The words here should not be considered as free of offensive language; you are responsible for applying your own filters to this. 
 ## Usage
 There are 2 text files with different extensions: `syn-ant.txt` and `syn-ant.csv` The files are in fact identical; I have merely labelled them with separate extensions to make it easier for your computer's default method of opening the file.
 
@@ -21,7 +20,7 @@ The fields in the file are as follows:
 
 Note that the antonyms are an optional field. All keywords here ought to have one or more synonyms, but may not necessarily have any antonyms.(What is the opposite of "hamster", for example?)
 
-Your application for reading this data should therefore delimit by commas for the fields, and by hash symbols # for individual synonyms and antonyms.
+Your application for reading this data should therefore **delimit by commas for the fields**, and **by hash symbols # for individual synonyms and antonyms.**
 
 Delimiting by spaces will not be helpful, as the only spaces present ought to be in multi-word phrases (e.g. "per annum"). Indeed, most lines are entirely devoid of spaces.
 
